@@ -1,5 +1,4 @@
-# MTPanel
-Digunakan untuk memantau Server
+# React + Vite + Tailwind
 
 1. Install package
    ```npm install```
